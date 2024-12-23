@@ -8,7 +8,7 @@ public class PrimeCheck {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPrime(29));  // Output: true
-        System.out.println(isPrime(15));  // Output: false
+        System.out.println(isPrime(29));  
+        System.out.println(isPrime(15));  
     }
 }
